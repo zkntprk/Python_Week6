@@ -1,6 +1,6 @@
 # Python_Week6
 
-Create a class named Triangle and Rectangle.
+Create a class named 'Triangle' and 'Rectangle'.
 
 Create a subclass named Square inherited from Rectangle.
 
